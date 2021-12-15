@@ -1,6 +1,6 @@
-- 👋 call me @cs-2006
+- 👋 call me cs06
 - 👀 interested in machine learning
-- 🌱 currently student @ eth zurich
+- 🌱 cs student @ eth zurich
 - 📫 contact: wangni@student.ethz.ch
 
 <!---
