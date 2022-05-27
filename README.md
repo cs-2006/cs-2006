@@ -1,7 +1,5 @@
-- 👋 call me cs06
-- 👀 interested in machine learning
-- 🌱 cs student @ eth zurich
-- 📫 contact: wangni@student.ethz.ch
+snial
+wangni@student.ethz.ch
 
 <!---
 cs-2006/cs-2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
