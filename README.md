@@ -1,5 +1,4 @@
 ETH Zurich CS 
-wangni@student.ethz.ch
 
 <!---
 cs-2006/cs-2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
